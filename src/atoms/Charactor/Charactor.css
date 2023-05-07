@@ -1,0 +1,11 @@
+.charactor {
+  position: absolute;
+  top: 60px;
+  left: 1160px;
+  height: 934px;
+  object-fit: cover;
+}
+
+.charactor::-webkit-scrollbar {
+  display: none;
+}

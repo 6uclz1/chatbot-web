@@ -1,0 +1,23 @@
+.main-box {
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 92%;
+  width: 98%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  border-radius: 12px 0px 0px 12px;
+  box-shadow: 10px 10px 25px 0 rgba(0, 0, 0, 0.3);
+}
+
+.left-box {
+  display: flex;
+  flex: 2;
+  height: 100%;
+  margin: 36px 36px 36px 36px;
+  flex-direction: column;
+}
+.right-box {
+  display: flex;
+  flex: 1;
+}
